@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1568498899 source:c:\users\caio\desktop\braco\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1522183854 c:\program files (x86)\codeblocks\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
